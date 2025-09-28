@@ -118,3 +118,25 @@ print(max(s))
 print(min(s))
 
 
+#Index operator []
+#A character in the string can be accessed through its index
+#Indices are 0 based they range from 0 to len(s) - 1
+s = "Welcome"
+s1 = s[0]
+print(s1)
+
+#We can use negative numbers as indexes to reference
+s2 = s[-2]
+print(s2)
+
+#WARNING: Strings are immutable objects. Their contents
+#cannot change
+#s[2] = 'A'
+
+#Slicing operator [start index:ending index -1]
+print(s[1:4])
+print(s[ :5])
+print(s[2: ])
+
+
+

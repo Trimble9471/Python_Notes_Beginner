@@ -6,7 +6,7 @@
 num1, num2, num3 = 1, 2, 3
 
 #Promt the user to input 3 values
-#Note: NOT SECURE
+#Note: NOT SECURE, eval function can run input python code
 
 #num1, num2, num3 = eval(input("Enter three values \
 #seperated by a comma: "))
