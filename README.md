@@ -2,7 +2,7 @@
 
 This is a collection of basic Python programs/functions from class  
 
-##Contents
+##Contents. 
 -Computing Angles of a Triangle. 
 -String Examples. 
 -Determining of a point is in a circle. 
@@ -17,8 +17,6 @@ This is a collection of basic Python programs/functions from class
 -Subtraction Quiz. 
 -Computing BMI program. 
 -Finding the distance between 2 points using Turtle. 
- 
->>>>>>> 5469c9c (Updated ReadMe)
 
 ##How to Run  
 1.Clone Repository  
