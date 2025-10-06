@@ -9,7 +9,7 @@ currentTime = time.time()
 print(currentTime)
 
 #Obtain the total seconds
-#By using in() function we can drop the decimal
+#By using int() function we can drop the decimal
 totalSeconds = int(currentTime)
 print(totalSeconds)
 
