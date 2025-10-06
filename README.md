@@ -17,8 +17,8 @@ This is a collection of basic Python programs/functions from class
 -Subtraction Quiz  
 -Computing BMI program  
 -Finding the distance between 2 points using Turtle  
--Number Guessing Games using Loops. 
--Looping subtraction quiz. 
+-Number Guessing Games using Loops  
+-Looping subtraction quiz  
 
 ##How to Run  
 1.Clone Repository  
